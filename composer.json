@@ -1,0 +1,6 @@
+{
+    "require": {
+        "flatroy/nova-progressbar-field": "^0.0.6",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
